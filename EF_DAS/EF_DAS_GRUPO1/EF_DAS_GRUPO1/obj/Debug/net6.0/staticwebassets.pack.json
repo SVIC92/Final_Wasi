@@ -1,0 +1,389 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\EF_DAS\\EF_DAS_GRUPO1\\EF_DAS_GRUPO1\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\EF_DAS_GRUPO1.bundle.scp.css",
+      "PackagePath": "staticwebassets\\EF_DAS_GRUPO1.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\EF_DAS\\EF_DAS_GRUPO1\\EF_DAS_GRUPO1\\wwwroot\\css\\conoceme.css",
+      "PackagePath": "staticwebassets\\css\\conoceme.css"
+    },
+    {
+      "Id": "D:\\EF_DAS\\EF_DAS_GRUPO1\\EF_DAS_GRUPO1\\wwwroot\\css\\preguntas.css",
+      "PackagePath": "staticwebassets\\css\\preguntas.css"
+    },
+    {
+      "Id": "D:\\EF_DAS\\EF_DAS_GRUPO1\\EF_DAS_GRUPO1\\wwwroot\\css\\privacidad.css",
+      "PackagePath": "staticwebassets\\css\\privacidad.css"
+    },
+    {
+      "Id": "D:\\EF_DAS\\EF_DAS_GRUPO1\\EF_DAS_GRUPO1\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\EF_DAS\\EF_DAS_GRUPO1\\EF_DAS_GRUPO1\\wwwroot\\css\\ubicame.css",
+      "PackagePath": "staticwebassets\\css\\ubicame.css"
+    },
+    {
+      "Id": "D:\\EF_DAS\\EF_DAS_GRUPO1\\EF_DAS_GRUPO1\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\EF_DAS\\EF_DAS_GRUPO1\\EF_DAS_GRUPO1\\wwwroot\\images\\Arroz5kg.png",
+      "PackagePath": "staticwebassets\\images\\Arroz5kg.png"
+    },
+    {
+      "Id": "D:\\EF_DAS\\EF_DAS_GRUPO1\\EF_DAS_GRUPO1\\wwwroot\\images\\Atunprimor.png",
+      "PackagePath": "staticwebassets\\images\\Atunprimor.png"
+    },
+    {
+      "Id": "D:\\EF_DAS\\EF_DAS_GRUPO1\\EF_DAS_GRUPO1\\wwwroot\\images\\Azucar1kg.png",
+      "PackagePath": "staticwebassets\\images\\Azucar1kg.png"
+    },
+    {
+      "Id": "D:\\EF_DAS\\EF_DAS_GRUPO1\\EF_DAS_GRUPO1\\wwwroot\\images\\Bannerhola.jpg",
+      "PackagePath": "staticwebassets\\images\\Bannerhola.jpg"
+    },
+    {
+      "Id": "D:\\EF_DAS\\EF_DAS_GRUPO1\\EF_DAS_GRUPO1\\wwwroot\\images\\Bannerhola1.jpg",
+      "PackagePath": "staticwebassets\\images\\Bannerhola1.jpg"
+    },
+    {
+      "Id": "D:\\EF_DAS\\EF_DAS_GRUPO1\\EF_DAS_GRUPO1\\wwwroot\\images\\Cajera2.png",
+      "PackagePath": "staticwebassets\\images\\Cajera2.png"
+    },
+    {
+      "Id": "D:\\EF_DAS\\EF_DAS_GRUPO1\\EF_DAS_GRUPO1\\wwwroot\\images\\Cajera3.png",
+      "PackagePath": "staticwebassets\\images\\Cajera3.png"
+    },
+    {
+      "Id": "D:\\EF_DAS\\EF_DAS_GRUPO1\\EF_DAS_GRUPO1\\wwwroot\\images\\Detergentelíquido.png",
+      "PackagePath": "staticwebassets\\images\\Detergentelíquido.png"
+    },
+    {
+      "Id": "D:\\EF_DAS\\EF_DAS_GRUPO1\\EF_DAS_GRUPO1\\wwwroot\\images\\Doritos.png",
+      "PackagePath": "staticwebassets\\images\\Doritos.png"
+    },
+    {
+      "Id": "D:\\EF_DAS\\EF_DAS_GRUPO1\\EF_DAS_GRUPO1\\wwwroot\\images\\InkaChips.png",
+      "PackagePath": "staticwebassets\\images\\InkaChips.png"
+    },
+    {
+      "Id": "D:\\EF_DAS\\EF_DAS_GRUPO1\\EF_DAS_GRUPO1\\wwwroot\\images\\JavaHuevos.png",
+      "PackagePath": "staticwebassets\\images\\JavaHuevos.png"
+    },
+    {
+      "Id": "D:\\EF_DAS\\EF_DAS_GRUPO1\\EF_DAS_GRUPO1\\wwwroot\\images\\Mapa-de-lima.jpg",
+      "PackagePath": "staticwebassets\\images\\Mapa-de-lima.jpg"
+    },
+    {
+      "Id": "D:\\EF_DAS\\EF_DAS_GRUPO1\\EF_DAS_GRUPO1\\wwwroot\\images\\PHSuave.png",
+      "PackagePath": "staticwebassets\\images\\PHSuave.png"
+    },
+    {
+      "Id": "D:\\EF_DAS\\EF_DAS_GRUPO1\\EF_DAS_GRUPO1\\wwwroot\\images\\WASILOGO.png",
+      "PackagePath": "staticwebassets\\images\\WASILOGO.png"
+    },
+    {
+      "Id": "D:\\EF_DAS\\EF_DAS_GRUPO1\\EF_DAS_GRUPO1\\wwwroot\\images\\Wasiwasi.png",
+      "PackagePath": "staticwebassets\\images\\Wasiwasi.png"
+    },
+    {
+      "Id": "D:\\EF_DAS\\EF_DAS_GRUPO1\\EF_DAS_GRUPO1\\wwwroot\\images\\cajera1.png",
+      "PackagePath": "staticwebassets\\images\\cajera1.png"
+    },
+    {
+      "Id": "D:\\EF_DAS\\EF_DAS_GRUPO1\\EF_DAS_GRUPO1\\wwwroot\\images\\compraswasi.png",
+      "PackagePath": "staticwebassets\\images\\compraswasi.png"
+    },
+    {
+      "Id": "D:\\EF_DAS\\EF_DAS_GRUPO1\\EF_DAS_GRUPO1\\wwwroot\\images\\efectivo.png",
+      "PackagePath": "staticwebassets\\images\\efectivo.png"
+    },
+    {
+      "Id": "D:\\EF_DAS\\EF_DAS_GRUPO1\\EF_DAS_GRUPO1\\wwwroot\\images\\imagencentral.png",
+      "PackagePath": "staticwebassets\\images\\imagencentral.png"
+    },
+    {
+      "Id": "D:\\EF_DAS\\EF_DAS_GRUPO1\\EF_DAS_GRUPO1\\wwwroot\\images\\mastercard.png",
+      "PackagePath": "staticwebassets\\images\\mastercard.png"
+    },
+    {
+      "Id": "D:\\EF_DAS\\EF_DAS_GRUPO1\\EF_DAS_GRUPO1\\wwwroot\\images\\oh-pay.png",
+      "PackagePath": "staticwebassets\\images\\oh-pay.png"
+    },
+    {
+      "Id": "D:\\EF_DAS\\EF_DAS_GRUPO1\\EF_DAS_GRUPO1\\wwwroot\\images\\oh.png",
+      "PackagePath": "staticwebassets\\images\\oh.png"
+    },
+    {
+      "Id": "D:\\EF_DAS\\EF_DAS_GRUPO1\\EF_DAS_GRUPO1\\wwwroot\\images\\pasillotiendaWasi.png",
+      "PackagePath": "staticwebassets\\images\\pasillotiendaWasi.png"
+    },
+    {
+      "Id": "D:\\EF_DAS\\EF_DAS_GRUPO1\\EF_DAS_GRUPO1\\wwwroot\\images\\sedewasi.png",
+      "PackagePath": "staticwebassets\\images\\sedewasi.png"
+    },
+    {
+      "Id": "D:\\EF_DAS\\EF_DAS_GRUPO1\\EF_DAS_GRUPO1\\wwwroot\\images\\tarjeta-credito.png",
+      "PackagePath": "staticwebassets\\images\\tarjeta-credito.png"
+    },
+    {
+      "Id": "D:\\EF_DAS\\EF_DAS_GRUPO1\\EF_DAS_GRUPO1\\wwwroot\\images\\tarjeta-debito.png",
+      "PackagePath": "staticwebassets\\images\\tarjeta-debito.png"
+    },
+    {
+      "Id": "D:\\EF_DAS\\EF_DAS_GRUPO1\\EF_DAS_GRUPO1\\wwwroot\\images\\visa.png",
+      "PackagePath": "staticwebassets\\images\\visa.png"
+    },
+    {
+      "Id": "D:\\EF_DAS\\EF_DAS_GRUPO1\\EF_DAS_GRUPO1\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\EF_DAS\\EF_DAS_GRUPO1\\EF_DAS_GRUPO1\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\EF_DAS\\EF_DAS_GRUPO1\\EF_DAS_GRUPO1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\EF_DAS\\EF_DAS_GRUPO1\\EF_DAS_GRUPO1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\EF_DAS\\EF_DAS_GRUPO1\\EF_DAS_GRUPO1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\EF_DAS\\EF_DAS_GRUPO1\\EF_DAS_GRUPO1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\EF_DAS\\EF_DAS_GRUPO1\\EF_DAS_GRUPO1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\EF_DAS\\EF_DAS_GRUPO1\\EF_DAS_GRUPO1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\EF_DAS\\EF_DAS_GRUPO1\\EF_DAS_GRUPO1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\EF_DAS\\EF_DAS_GRUPO1\\EF_DAS_GRUPO1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\EF_DAS\\EF_DAS_GRUPO1\\EF_DAS_GRUPO1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\EF_DAS\\EF_DAS_GRUPO1\\EF_DAS_GRUPO1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\EF_DAS\\EF_DAS_GRUPO1\\EF_DAS_GRUPO1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\EF_DAS\\EF_DAS_GRUPO1\\EF_DAS_GRUPO1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\EF_DAS\\EF_DAS_GRUPO1\\EF_DAS_GRUPO1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\EF_DAS\\EF_DAS_GRUPO1\\EF_DAS_GRUPO1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\EF_DAS\\EF_DAS_GRUPO1\\EF_DAS_GRUPO1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\EF_DAS\\EF_DAS_GRUPO1\\EF_DAS_GRUPO1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\EF_DAS\\EF_DAS_GRUPO1\\EF_DAS_GRUPO1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\EF_DAS\\EF_DAS_GRUPO1\\EF_DAS_GRUPO1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\EF_DAS\\EF_DAS_GRUPO1\\EF_DAS_GRUPO1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\EF_DAS\\EF_DAS_GRUPO1\\EF_DAS_GRUPO1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\EF_DAS\\EF_DAS_GRUPO1\\EF_DAS_GRUPO1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\EF_DAS\\EF_DAS_GRUPO1\\EF_DAS_GRUPO1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\EF_DAS\\EF_DAS_GRUPO1\\EF_DAS_GRUPO1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\EF_DAS\\EF_DAS_GRUPO1\\EF_DAS_GRUPO1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\EF_DAS\\EF_DAS_GRUPO1\\EF_DAS_GRUPO1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\EF_DAS\\EF_DAS_GRUPO1\\EF_DAS_GRUPO1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\EF_DAS\\EF_DAS_GRUPO1\\EF_DAS_GRUPO1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\EF_DAS\\EF_DAS_GRUPO1\\EF_DAS_GRUPO1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\EF_DAS\\EF_DAS_GRUPO1\\EF_DAS_GRUPO1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\EF_DAS\\EF_DAS_GRUPO1\\EF_DAS_GRUPO1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\EF_DAS\\EF_DAS_GRUPO1\\EF_DAS_GRUPO1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\EF_DAS\\EF_DAS_GRUPO1\\EF_DAS_GRUPO1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\EF_DAS\\EF_DAS_GRUPO1\\EF_DAS_GRUPO1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\EF_DAS\\EF_DAS_GRUPO1\\EF_DAS_GRUPO1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\EF_DAS\\EF_DAS_GRUPO1\\EF_DAS_GRUPO1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\EF_DAS\\EF_DAS_GRUPO1\\EF_DAS_GRUPO1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\EF_DAS\\EF_DAS_GRUPO1\\EF_DAS_GRUPO1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\EF_DAS\\EF_DAS_GRUPO1\\EF_DAS_GRUPO1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\EF_DAS\\EF_DAS_GRUPO1\\EF_DAS_GRUPO1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\EF_DAS\\EF_DAS_GRUPO1\\EF_DAS_GRUPO1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\EF_DAS\\EF_DAS_GRUPO1\\EF_DAS_GRUPO1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\EF_DAS\\EF_DAS_GRUPO1\\EF_DAS_GRUPO1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\EF_DAS\\EF_DAS_GRUPO1\\EF_DAS_GRUPO1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\EF_DAS\\EF_DAS_GRUPO1\\EF_DAS_GRUPO1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\EF_DAS\\EF_DAS_GRUPO1\\EF_DAS_GRUPO1\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\EF_DAS\\EF_DAS_GRUPO1\\EF_DAS_GRUPO1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\EF_DAS\\EF_DAS_GRUPO1\\EF_DAS_GRUPO1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\EF_DAS\\EF_DAS_GRUPO1\\EF_DAS_GRUPO1\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\EF_DAS\\EF_DAS_GRUPO1\\EF_DAS_GRUPO1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\EF_DAS\\EF_DAS_GRUPO1\\EF_DAS_GRUPO1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\EF_DAS\\EF_DAS_GRUPO1\\EF_DAS_GRUPO1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\EF_DAS\\EF_DAS_GRUPO1\\EF_DAS_GRUPO1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\EF_DAS\\EF_DAS_GRUPO1\\EF_DAS_GRUPO1\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\EF_DAS\\EF_DAS_GRUPO1\\EF_DAS_GRUPO1\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\EF_DAS\\EF_DAS_GRUPO1\\EF_DAS_GRUPO1\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\EF_DAS\\EF_DAS_GRUPO1\\EF_DAS_GRUPO1\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.EF_DAS_GRUPO1.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.EF_DAS_GRUPO1.props",
+      "PackagePath": "build\\EF_DAS_GRUPO1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.EF_DAS_GRUPO1.props",
+      "PackagePath": "buildMultiTargeting\\EF_DAS_GRUPO1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.EF_DAS_GRUPO1.props",
+      "PackagePath": "buildTransitive\\EF_DAS_GRUPO1.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

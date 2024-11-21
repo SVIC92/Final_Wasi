@@ -1,0 +1,257 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\EF_DAS\\EF_DAS_GRUPO1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD575A9-F6D3-4537-A0C8-4DD3258E9089}|EF_DAS_GRUPO1\\EF_DAS_GRUPO1.csproj|d:\\ef_das\\ef_das_grupo1\\ef_das_grupo1\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD575A9-F6D3-4537-A0C8-4DD3258E9089}|EF_DAS_GRUPO1\\EF_DAS_GRUPO1.csproj|solutionrelative:ef_das_grupo1\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD575A9-F6D3-4537-A0C8-4DD3258E9089}|EF_DAS_GRUPO1\\EF_DAS_GRUPO1.csproj|d:\\ef_das\\ef_das_grupo1\\ef_das_grupo1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD575A9-F6D3-4537-A0C8-4DD3258E9089}|EF_DAS_GRUPO1\\EF_DAS_GRUPO1.csproj|solutionrelative:ef_das_grupo1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\EF_DAS\\EF_DAS_GRUPO1\\EF_DAS_GRUPO1\\Migrations\\20241120225842_Wasi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EF_DAS_GRUPO1\\Migrations\\20241120225842_Wasi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD575A9-F6D3-4537-A0C8-4DD3258E9089}|EF_DAS_GRUPO1\\EF_DAS_GRUPO1.csproj|d:\\ef_das\\ef_das_grupo1\\ef_das_grupo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD575A9-F6D3-4537-A0C8-4DD3258E9089}|EF_DAS_GRUPO1\\EF_DAS_GRUPO1.csproj|solutionrelative:ef_das_grupo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD575A9-F6D3-4537-A0C8-4DD3258E9089}|EF_DAS_GRUPO1\\EF_DAS_GRUPO1.csproj|d:\\ef_das\\ef_das_grupo1\\ef_das_grupo1\\datos\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD575A9-F6D3-4537-A0C8-4DD3258E9089}|EF_DAS_GRUPO1\\EF_DAS_GRUPO1.csproj|solutionrelative:ef_das_grupo1\\datos\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD575A9-F6D3-4537-A0C8-4DD3258E9089}|EF_DAS_GRUPO1\\EF_DAS_GRUPO1.csproj|d:\\ef_das\\ef_das_grupo1\\ef_das_grupo1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EBD575A9-F6D3-4537-A0C8-4DD3258E9089}|EF_DAS_GRUPO1\\EF_DAS_GRUPO1.csproj|solutionrelative:ef_das_grupo1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD575A9-F6D3-4537-A0C8-4DD3258E9089}|EF_DAS_GRUPO1\\EF_DAS_GRUPO1.csproj|d:\\ef_das\\ef_das_grupo1\\ef_das_grupo1\\models\\carritoproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD575A9-F6D3-4537-A0C8-4DD3258E9089}|EF_DAS_GRUPO1\\EF_DAS_GRUPO1.csproj|solutionrelative:ef_das_grupo1\\models\\carritoproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD575A9-F6D3-4537-A0C8-4DD3258E9089}|EF_DAS_GRUPO1\\EF_DAS_GRUPO1.csproj|d:\\ef_das\\ef_das_grupo1\\ef_das_grupo1\\models\\carrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD575A9-F6D3-4537-A0C8-4DD3258E9089}|EF_DAS_GRUPO1\\EF_DAS_GRUPO1.csproj|solutionrelative:ef_das_grupo1\\models\\carrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD575A9-F6D3-4537-A0C8-4DD3258E9089}|EF_DAS_GRUPO1\\EF_DAS_GRUPO1.csproj|d:\\ef_das\\ef_das_grupo1\\ef_das_grupo1\\models\\inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD575A9-F6D3-4537-A0C8-4DD3258E9089}|EF_DAS_GRUPO1\\EF_DAS_GRUPO1.csproj|solutionrelative:ef_das_grupo1\\models\\inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD575A9-F6D3-4537-A0C8-4DD3258E9089}|EF_DAS_GRUPO1\\EF_DAS_GRUPO1.csproj|d:\\ef_das\\ef_das_grupo1\\ef_das_grupo1\\models\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD575A9-F6D3-4537-A0C8-4DD3258E9089}|EF_DAS_GRUPO1\\EF_DAS_GRUPO1.csproj|solutionrelative:ef_das_grupo1\\models\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD575A9-F6D3-4537-A0C8-4DD3258E9089}|EF_DAS_GRUPO1\\EF_DAS_GRUPO1.csproj|d:\\ef_das\\ef_das_grupo1\\ef_das_grupo1\\models\\pedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD575A9-F6D3-4537-A0C8-4DD3258E9089}|EF_DAS_GRUPO1\\EF_DAS_GRUPO1.csproj|solutionrelative:ef_das_grupo1\\models\\pedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD575A9-F6D3-4537-A0C8-4DD3258E9089}|EF_DAS_GRUPO1\\EF_DAS_GRUPO1.csproj|d:\\ef_das\\ef_das_grupo1\\ef_das_grupo1\\models\\historialtokens.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD575A9-F6D3-4537-A0C8-4DD3258E9089}|EF_DAS_GRUPO1\\EF_DAS_GRUPO1.csproj|solutionrelative:ef_das_grupo1\\models\\historialtokens.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD575A9-F6D3-4537-A0C8-4DD3258E9089}|EF_DAS_GRUPO1\\EF_DAS_GRUPO1.csproj|d:\\ef_das\\ef_das_grupo1\\ef_das_grupo1\\views\\home\\ubicame.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EBD575A9-F6D3-4537-A0C8-4DD3258E9089}|EF_DAS_GRUPO1\\EF_DAS_GRUPO1.csproj|solutionrelative:ef_das_grupo1\\views\\home\\ubicame.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductosController.cs",
+              "DocumentMoniker": "D:\\EF_DAS\\EF_DAS_GRUPO1\\EF_DAS_GRUPO1\\Controllers\\ProductosController.cs",
+              "RelativeDocumentMoniker": "EF_DAS_GRUPO1\\Controllers\\ProductosController.cs",
+              "ToolTip": "D:\\EF_DAS\\EF_DAS_GRUPO1\\EF_DAS_GRUPO1\\Controllers\\ProductosController.cs",
+              "RelativeToolTip": "EF_DAS_GRUPO1\\Controllers\\ProductosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T00:09:58.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20241120225842_Wasi.cs",
+              "DocumentMoniker": "D:\\EF_DAS\\EF_DAS_GRUPO1\\EF_DAS_GRUPO1\\Migrations\\20241120225842_Wasi.cs",
+              "RelativeDocumentMoniker": "EF_DAS_GRUPO1\\Migrations\\20241120225842_Wasi.cs",
+              "ToolTip": "D:\\EF_DAS\\EF_DAS_GRUPO1\\EF_DAS_GRUPO1\\Migrations\\20241120225842_Wasi.cs",
+              "RelativeToolTip": "EF_DAS_GRUPO1\\Migrations\\20241120225842_Wasi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T22:58:42.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\EF_DAS\\EF_DAS_GRUPO1\\EF_DAS_GRUPO1\\Program.cs",
+              "RelativeDocumentMoniker": "EF_DAS_GRUPO1\\Program.cs",
+              "ToolTip": "D:\\EF_DAS\\EF_DAS_GRUPO1\\EF_DAS_GRUPO1\\Program.cs",
+              "RelativeToolTip": "EF_DAS_GRUPO1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T22:57:11.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\EF_DAS\\EF_DAS_GRUPO1\\EF_DAS_GRUPO1\\appsettings.json",
+              "RelativeDocumentMoniker": "EF_DAS_GRUPO1\\appsettings.json",
+              "ToolTip": "D:\\EF_DAS\\EF_DAS_GRUPO1\\EF_DAS_GRUPO1\\appsettings.json",
+              "RelativeToolTip": "EF_DAS_GRUPO1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-20T22:37:20.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HistorialTokens.cs",
+              "DocumentMoniker": "D:\\EF_DAS\\EF_DAS_GRUPO1\\EF_DAS_GRUPO1\\Models\\HistorialTokens.cs",
+              "RelativeDocumentMoniker": "EF_DAS_GRUPO1\\Models\\HistorialTokens.cs",
+              "ToolTip": "D:\\EF_DAS\\EF_DAS_GRUPO1\\EF_DAS_GRUPO1\\Models\\HistorialTokens.cs",
+              "RelativeToolTip": "EF_DAS_GRUPO1\\Models\\HistorialTokens.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T15:58:07.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Ubicame.cshtml",
+              "DocumentMoniker": "D:\\EF_DAS\\EF_DAS_GRUPO1\\EF_DAS_GRUPO1\\Views\\Home\\Ubicame.cshtml",
+              "RelativeDocumentMoniker": "EF_DAS_GRUPO1\\Views\\Home\\Ubicame.cshtml",
+              "ToolTip": "D:\\EF_DAS\\EF_DAS_GRUPO1\\EF_DAS_GRUPO1\\Views\\Home\\Ubicame.cshtml",
+              "RelativeToolTip": "EF_DAS_GRUPO1\\Views\\Home\\Ubicame.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T15:12:59.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\EF_DAS\\EF_DAS_GRUPO1\\EF_DAS_GRUPO1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "EF_DAS_GRUPO1\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\EF_DAS\\EF_DAS_GRUPO1\\EF_DAS_GRUPO1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "EF_DAS_GRUPO1\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T15:12:04.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Pedidos.cs",
+              "DocumentMoniker": "D:\\EF_DAS\\EF_DAS_GRUPO1\\EF_DAS_GRUPO1\\Models\\Pedidos.cs",
+              "RelativeDocumentMoniker": "EF_DAS_GRUPO1\\Models\\Pedidos.cs",
+              "ToolTip": "D:\\EF_DAS\\EF_DAS_GRUPO1\\EF_DAS_GRUPO1\\Models\\Pedidos.cs",
+              "RelativeToolTip": "EF_DAS_GRUPO1\\Models\\Pedidos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T16:26:21.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CarritoProducto.cs",
+              "DocumentMoniker": "D:\\EF_DAS\\EF_DAS_GRUPO1\\EF_DAS_GRUPO1\\Models\\CarritoProducto.cs",
+              "RelativeDocumentMoniker": "EF_DAS_GRUPO1\\Models\\CarritoProducto.cs",
+              "ToolTip": "D:\\EF_DAS\\EF_DAS_GRUPO1\\EF_DAS_GRUPO1\\Models\\CarritoProducto.cs",
+              "RelativeToolTip": "EF_DAS_GRUPO1\\Models\\CarritoProducto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T15:12:37.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\EF_DAS\\EF_DAS_GRUPO1\\EF_DAS_GRUPO1\\Datos\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "EF_DAS_GRUPO1\\Datos\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\EF_DAS\\EF_DAS_GRUPO1\\EF_DAS_GRUPO1\\Datos\\ApplicationDbContext.cs",
+              "RelativeToolTip": "EF_DAS_GRUPO1\\Datos\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T15:12:19.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Inventario.cs",
+              "DocumentMoniker": "D:\\EF_DAS\\EF_DAS_GRUPO1\\EF_DAS_GRUPO1\\Models\\Inventario.cs",
+              "RelativeDocumentMoniker": "EF_DAS_GRUPO1\\Models\\Inventario.cs",
+              "ToolTip": "D:\\EF_DAS\\EF_DAS_GRUPO1\\EF_DAS_GRUPO1\\Models\\Inventario.cs",
+              "RelativeToolTip": "EF_DAS_GRUPO1\\Models\\Inventario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T16:39:02.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Carrito.cs",
+              "DocumentMoniker": "D:\\EF_DAS\\EF_DAS_GRUPO1\\EF_DAS_GRUPO1\\Models\\Carrito.cs",
+              "RelativeDocumentMoniker": "EF_DAS_GRUPO1\\Models\\Carrito.cs",
+              "ToolTip": "D:\\EF_DAS\\EF_DAS_GRUPO1\\EF_DAS_GRUPO1\\Models\\Carrito.cs",
+              "RelativeToolTip": "EF_DAS_GRUPO1\\Models\\Carrito.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T15:12:32.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Usuarios.cs",
+              "DocumentMoniker": "D:\\EF_DAS\\EF_DAS_GRUPO1\\EF_DAS_GRUPO1\\Models\\Usuarios.cs",
+              "RelativeDocumentMoniker": "EF_DAS_GRUPO1\\Models\\Usuarios.cs",
+              "ToolTip": "D:\\EF_DAS\\EF_DAS_GRUPO1\\EF_DAS_GRUPO1\\Models\\Usuarios.cs",
+              "RelativeToolTip": "EF_DAS_GRUPO1\\Models\\Usuarios.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAABBwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T16:35:12.33Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
